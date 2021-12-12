@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "hoster": "Github",
+    "name": "The Shopping Cart Project",
+    "demo_url": "https://github.com/DejucosAileen/IT-213-DOM-CART-ACTIVITY",
+    "hoster_url": "https://github.com/DejucosAileen/IT-213-DOM-CART-ACTIVITY",
+    "thumbnail_url": "https://github.com/Denziegipan/DenzieGipan-pictures/blob/main/DOMCart.png?raw=true"
+  },
+  {
+    "id": 2,
+    "hoster": "Github",
+    "name": "Email sending with form",
+    "demo_url": "https://github.com/DejucosAileen/IT-213-SENDING-EMAIL",
+    "hoster_url": "https://github.com/DejucosAileen/IT-213-SENDING-EMAIL",
+    "thumbnail_url": "https://github.com/Denziegipan/DenzieGipan-pictures/blob/main/SendingEmail.png?raw=true"
+  },
+  {
+    "id": 3,
+    "hoster": "Github",
+    "name": "Car Insurance Quotation",
+    "demo_url": "https://github.com/DejucosAileen/IT---213---Car-Insurance",
+    "hoster_url": "https://github.com/DejucosAileen/IT---213---Car-Insurance",
+    "thumbnail_url": "https://github.com/Denziegipan/DenzieGipan-pictures/blob/main/263334729_598791484661394_4834494875824937629_n%20(1).png?raw=true"
+  },
+  {
+    "id": 4,
+    "name": "The Weekly Budget App",
+    "hoster": "Github",
+    "demo_url": "https://github.com/DejucosAileen/IT-213-WEEKLY-BUDGET",
+    "hoster_url": "https://github.com/DejucosAileen/IT-213-WEEKLY-BUDGET",
+    "thumbnail_url": "https://github.com/Denziegipan/DenzieGipan-pictures/blob/main/WeeklyBudget.png?raw=true"
+  },
+  {
+    "id": 5,
+    "hoster": "Github",
+    "name": "Name Generator",
+    "demo_url": "https://github.com/DejucosAileen/IT-213-NAME-GENERATOR?fbclid=IwAR0MI_znu5yOdC4uZjOxr6S_VeDVSQLK0R6_xcCNgeZHr8U_DgHe5XbeX2s",
+    "hoster_url": "https://github.com/DejucosAileen/IT-213-NAME-GENERATOR?fbclid=IwAR0MI_znu5yOdC4uZjOxr6S_VeDVSQLK0R6_xcCNgeZHr8U_DgHe5XbeX2s",
+    "thumbnail_url": "https://github.com/Denziegipan/DenzieGipan-pictures/blob/main/NameGenerator.png?raw=true"
+  },
+  {
+    "id": 6,
+    "hoster": "Github",
+    "name": "Cryto Currency Rates",
+    "demo_url": "https://github.com/DejucosAileen/IT-213-CRYPTOCURRENCIES?fbclid=IwAR0KffZq3ppmZKJaQYhhUoPi3NQ-BxgXVj97Ktu-sNp9mw2RDICCL0smY20",
+    "hoster_url": "https://github.com/DejucosAileen/IT-213-CRYPTOCURRENCIES?fbclid=IwAR0KffZq3ppmZKJaQYhhUoPi3NQ-BxgXVj97Ktu-sNp9mw2RDICCL0smY20",
+    "thumbnail_url": "https://github.com/Denziegipan/DenzieGipan-pictures/blob/main/CryptoCurrency.png?raw=true"
+  },
+  {
+  "id": 6,
+    "hoster": "Github",
+    "name": "Cocktail Recipe",
+    "demo_url": "https://github.com/DejucosAileen/IT-213-COCKTAIL?fbclid=IwAR3sYeqOQd7ha7vIOQGVzfzxTyFNNOmlF6WzapOGhmS0F5O82LhJcPUaHts",
+    "hoster_url": "https://github.com/DejucosAileen/IT-213-COCKTAIL?fbclid=IwAR3sYeqOQd7ha7vIOQGVzfzxTyFNNOmlF6WzapOGhmS0F5O82LhJcPUaHts",
+    "thumbnail_url": "https://github.com/Denziegipan/DenzieGipan-pictures/blob/main/cocktail.jpg?raw=true"
+}
+  ]
